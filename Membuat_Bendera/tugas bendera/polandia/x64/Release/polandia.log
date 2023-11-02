@@ -1,0 +1,22 @@
+﻿  polandia.cpp
+E:\Membuat_Bendera\tugas bendera\indonesia\polandia\polandia\polandia.cpp(7,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Membuat_Bendera\tugas bendera\indonesia\polandia\polandia\polandia.cpp(7,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Membuat_Bendera\tugas bendera\indonesia\polandia\polandia\polandia.cpp(8,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Membuat_Bendera\tugas bendera\indonesia\polandia\polandia\polandia.cpp(8,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Membuat_Bendera\tugas bendera\indonesia\polandia\polandia\polandia.cpp(9,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Membuat_Bendera\tugas bendera\indonesia\polandia\polandia\polandia.cpp(9,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Membuat_Bendera\tugas bendera\indonesia\polandia\polandia\polandia.cpp(10,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Membuat_Bendera\tugas bendera\indonesia\polandia\polandia\polandia.cpp(10,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Membuat_Bendera\tugas bendera\indonesia\polandia\polandia\polandia.cpp(16,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Membuat_Bendera\tugas bendera\indonesia\polandia\polandia\polandia.cpp(16,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Membuat_Bendera\tugas bendera\indonesia\polandia\polandia\polandia.cpp(17,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Membuat_Bendera\tugas bendera\indonesia\polandia\polandia\polandia.cpp(17,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Membuat_Bendera\tugas bendera\indonesia\polandia\polandia\polandia.cpp(18,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Membuat_Bendera\tugas bendera\indonesia\polandia\polandia\polandia.cpp(18,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Membuat_Bendera\tugas bendera\indonesia\polandia\polandia\polandia.cpp(19,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Membuat_Bendera\tugas bendera\indonesia\polandia\polandia\polandia.cpp(19,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  polandia.vcxproj -> E:\Membuat_Bendera\tugas bendera\indonesia\polandia\polandia\x64\Release\polandia.exe
